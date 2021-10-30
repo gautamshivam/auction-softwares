@@ -1,7 +1,6 @@
 # Hello World Program in Ruby
 str = gets
 str  = str.downcase
-puts str
 def alpha_position(string)
   result = []
   string.each_char do |char|
